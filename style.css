@@ -3,7 +3,7 @@
     --red: #0702ff;
     --background:#26fa09;
     --gradient-1:#d1f313;
-    --gradient-2: #e5f509;
+    --gradient-2: #efff0a;
 }
 
 html{
@@ -27,7 +27,7 @@ main{
     min-height: height 40vh;
     border-radius: 2rem 2rem 2rem 2rem;
     padding: 4rem;
-    color: #eef10a;
+    color: #f3f3f3;
 }
 
 h2{
